@@ -1,0 +1,11 @@
+  h4 {
+    font-weight: bold;
+  }
+  
+  
+  .jumbotron {
+    color: rgb(3, 3, 3);
+    background-image: url("../images/biodiversity.png");
+    background-size: 100% 100%;
+    text-align: center;
+  }
